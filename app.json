@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "car-wash-",
-    "slug": "snack-308c0578-f6c8-4070-be53-63b6141871b4",
+    "name": "Medjira Car Wash",
+    "slug": "medjira-carwash",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -12,19 +12,18 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "ios": {
-      "supportsTablet": true
-    },
     "android": {
+      "package": "com.medjira.carwash",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      },
-      "edgeToEdgeEnabled": true
+      }
+    },
+    "ios": {
+      "supportsTablet": true
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "description": "car wash app"
+    }
   }
 }
