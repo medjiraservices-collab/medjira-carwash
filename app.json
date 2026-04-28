@@ -4,7 +4,7 @@
     "slug": "medjira-carwash",
     "version": "1.0.0",
     "android": {
-      "package": "com.medjira.carwash"
+      "package": "clean.medjira.com"
     },
     "extra": {
       "eas": {
