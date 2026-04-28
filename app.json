@@ -3,22 +3,12 @@
     "name": "Medjira Car Wash",
     "slug": "medjira-carwash",
     "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
-    "splash": {
-      "image": "./assets/splash-icon.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
-
     "android": {
       "package": "com.medjira.carwash"
     },
-
     "extra": {
       "eas": {
-        "projectId": "c9b8d4f0-7a6e-4d8c-9a2b-123456789abc"
+        "projectId": "c54addc2-7cec-4ace-947c-6c017ad51410"
       }
     }
   }
